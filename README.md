@@ -32,7 +32,7 @@ If you're a Docker user, TC²-BBS Meshtastic is available on Docker Hub!
    
    ```sh
    cd ~
-   git clone https://github.com/TheCommsChannel/TC2-BBS-mesh.git
+   git clone https://github.com/wirelessphreak/TC2-BBS-mesh.git
    cd TC2-BBS-mesh
    ```
 
